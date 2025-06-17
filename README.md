@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivPatelMagic, a final year undergraduate CS student at BITS Pilani, Goa Campus
-- 👀 I’m interested in Computer Science, Music and CLose-Up Magic
+- 👀 I’m interested in Computer Science, Music and Close-Up Magic
 - 🌱 I’m highly enthusiastic about Deep Learning, Reinforcement Learning and Software Development
 
 <!---
